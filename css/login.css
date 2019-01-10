@@ -1,0 +1,61 @@
+/* @import"https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"; */
+body{
+    margin:0px;
+    padding: 0px;
+    font-family: sans-serif;
+    background:url(background.jpg) no-repeat;
+    background-size: cover;
+}
+.inqbutton{
+    background: none;
+    border: 2px solid springgreen;
+    color:white;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.middle{
+    width: 200px;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+}
+.middle h1{
+    float: left;
+    font-size: 40px;
+    border-bottom: 5px solid springgreen;
+    margin-bottom: 50px;
+    padding: 13px 0;
+}
+.textbox{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0px;
+    margin: 8px 0px;
+    border-bottom: 1px solid springgreen;
+}
+.textbox input{
+   border: none;
+   background: none;
+   outline: none;  
+   color: white;
+   widows: 80px;
+   float: left;
+   margin: 10px;
+}
+.button{
+    width: 100%;
+    background: none;
+    border: 2px solid springgreen;
+    color:white;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 12px 0;
+}
+.textbox image{
+     background-color:white;
+}

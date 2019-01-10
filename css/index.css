@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+.wrapper{
+    background-color:lightcoral;
+    width: 99%;
+    height: 99%;
+    padding: 5px
+}
+.header{
+    background-color:gray;
+    height:80px;
+}
+.middle{
+    background-color: darkgray;
+    height: 560px;
+    
+}
+.footer{
+    background-color: grey;
+    height:60px;
+}
+.treemenu{
+    color:white;
+    background-color: rgb(49, 46, 46);
+    position:relative;
+    float:left;
+    width:20%;
+    height:550px;
+}
+.content{
+    position:relative;
+    float:left;
+    background-color: lightslategray;
+    width:75%;
+    height:550px;
+}
+.projecttitle{
+    position:relative;
+    float: left;
+    width: 250px;
+    height: 15px;
+    color: lightskyblue
+}
+.path{
+    color:rgb(122, 236, 231);
+    position: relative;
+    float: left;
+    width: 250px;
+    height: 20px;
+} 
+.changepassword{
+    color:lightgreen;
+    position: relative;
+    float: right;
+    width:250px;
+    height:30px;
+}
